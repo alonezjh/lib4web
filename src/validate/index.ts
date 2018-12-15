@@ -4,8 +4,8 @@ import isUrl from './isUrl'
 import isIdCard from './isIdCard'
 
 export default {
-  isEmail,
-  isPhoneNum,
-  isUrl,
-  isIdCard,
+    isEmail,
+    isPhoneNum,
+    isUrl,
+    isIdCard,
 }
