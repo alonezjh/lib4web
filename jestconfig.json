@@ -1,4 +1,7 @@
 {
+  "setupFiles": [
+    "jest-localstorage-mock"
+  ],
   "transform": {
     "^.+\\.(t|j)sx?$": "ts-jest"
   },
